@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+|
+=======
 Vægge lavet af mursten
 
 
@@ -7,3 +10,7 @@ Vægge lavet af mursten
 |      -      |
 |   _    _    |
 |__|_|__|_|___|
+>>>>>>> 2e1d0ab64b5ea5c22cb3198f7ae62901b928a3b4
+
+
+C
