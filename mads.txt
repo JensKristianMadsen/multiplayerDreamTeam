@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+mads
+Hvordan får man en fisk til at grine? Man putter den i kildevand
+=======
 Hej Mads
+>>>>>>> 650ff9733020637a9e6a2028c49806b77bc50337
