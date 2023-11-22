@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 Vægge lavet af mursten
 
@@ -17,6 +17,3 @@ Vægge lavet af mursten
 
 
 
-
-=======
->>>>>>> 07591d77920566ddc737bd8eeb8bd5e0dabfeae0
