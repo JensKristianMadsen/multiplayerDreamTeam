@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Vægge lavet af mursten
    /
@@ -12,3 +13,17 @@ Vægge lavet af mursten
 
 
 
+=======
+         ***
+        **
+		*
+	__| |_
+   /       \
+  /			\
+ -------------
+/      _      \
+|     | |     |      [Hej]     [Jeg hedder Jan]
+|      -      |    0 				O
+|   _    _    |	   /\				|
+|__|_|__|_|___|    /\	           /\
+>>>>>>> ec88668504f1b1eb56876e8aed3d3ffa5929191b
